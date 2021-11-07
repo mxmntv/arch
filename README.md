@@ -83,7 +83,7 @@ Todo
     * наблюдаемость и настраиваемость системы 
 
 ### Матрица стейкхолдеров:
-![stakeholders_matrix](img/stakeholders_mx.png "stakeholders matrix")
+![stakeholders_matrix](img/stakeholders_mx.png?width=50% "stakeholders matrix")
 
 ## Разработка концептуальной архитектуры <a name="arch_concept"></a>
 --
