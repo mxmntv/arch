@@ -86,7 +86,7 @@ Todo
 ![stakeholders_matrix](img/stakeholders_mx.png "stakeholders matrix")
 
 ## Разработка концептуальной архитектуры <a name="arch_concept"></a>
---
+![arch_concept](img/concept.png "arch concept")
 
 ## Описание рисков реализации (бизнес и технические) <a name="risks"></a>
 --
