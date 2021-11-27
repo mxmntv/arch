@@ -279,10 +279,11 @@
 ![basic_arch](img/basic_view_v2.png "basic_arch")
 
 ## Основные представления <a name="views"></a>
---
 
 ### Функциональное <a name="funk_views"></a>
---
+
+![func_arch](img/func_arch.png "func_arch")
+
 ### Информационное <a name="info_views"></a>
 --
 ### Многозадачность <a name="concurency_views"></a>
