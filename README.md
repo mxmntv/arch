@@ -285,7 +285,9 @@
 ![func_arch](img/func_arch.png "func_arch")
 
 ### Информационное <a name="info_views"></a>
---
+
+![info_view](img/info_view.png "info_view")
+
 ### Многозадачность <a name="concurency_views"></a>
 --
 ### Инфраструктурное <a name="infra_views"></a>
