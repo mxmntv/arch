@@ -297,7 +297,8 @@
 ![infrastructure_view](img/infrastructure_view.png "infrastructure_view")
 
 ### Безопасность <a name="security_views"></a>
---
+
+![security_view](img/security_view.png "security_view")
 
 ## Анализ рисков созданной архитектуры, компромиссов <a name="compromises"></a>
 --
