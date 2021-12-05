@@ -293,7 +293,9 @@
 ![concurency_view](img/concurency_view.png "concurency_view")
 
 ### Инфраструктурное <a name="infra_views"></a>
---
+
+![infrastructure_view](img/infrastructure_view.png "infrastructure_view")
+
 ### Безопасность <a name="security_views"></a>
 --
 
