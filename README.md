@@ -290,7 +290,7 @@
 
 ### Многозадачность <a name="concurency_views"></a>
 
-![concurency_view](img/concurency_view.png "concurency_view")
+![concurency_view](img/concurency_v.png "concurency_view")
 
 ### Инфраструктурное <a name="infra_views"></a>
 
