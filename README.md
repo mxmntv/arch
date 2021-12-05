@@ -276,7 +276,7 @@
  
 ## Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества <a name="basic_arch"></a>
 
-![basic_arch](img/basic_view_v2.png "basic_arch")
+![basic_arch](img/basic_view_v3.png "basic_arch")
 
 ## Основные представления <a name="views"></a>
 
@@ -289,7 +289,9 @@
 ![info_view](img/info_view.png "info_view")
 
 ### Многозадачность <a name="concurency_views"></a>
---
+
+![concurency_view](img/concurency.png "concurency_view")
+
 ### Инфраструктурное <a name="infra_views"></a>
 --
 ### Безопасность <a name="security_views"></a>
