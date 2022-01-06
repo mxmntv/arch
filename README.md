@@ -288,7 +288,11 @@
 
 ### Информационное <a name="info_views"></a>
 
+#### Схема данных
 ![info_view](img/info_view.png "info_view")
+
+#### События/команды
+![commands](img/commands.png "commands")
 
 ### Многозадачность <a name="concurency_views"></a>
 
